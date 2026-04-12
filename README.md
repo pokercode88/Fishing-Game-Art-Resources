@@ -45,7 +45,7 @@ A **complete commercial-grade fishing game art resource pack** including everyth
 
 | 鱼类模型 | UI界面 | 游戏场景/特效 |
 |:---:|:---:|:---:|
-| `[拖拽截图1]` | `[拖拽截图2]` | `[拖拽截图3]` |
+
 ![x11](https://github.com/user-attachments/assets/31740af5-3a3b-4850-897a-48671c780401)
 <img width="953" alt="4444" src="https://github.com/user-attachments/assets/e13011e9-979a-4cd6-9310-e853c6d060b3" />
 ![战斗界面](https://github.com/user-attachments/assets/2e3d2d7c-55a0-482b-a785-41be164d76e8)
