@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎣 捕鱼游戏美术资源 | 捕魚遊戲美術資源 | Fishing Game Art Resources
+# 🎣 捕鱼游戏美术资源 | 捕鱼资源|捕鱼美术|捕魚遊戲美術資源 | Fishing Game Art Resources
 
 **40GB+ 完整商业级资源包 | 可直接用于捕鱼游戏开发**
 
